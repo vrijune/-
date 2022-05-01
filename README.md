@@ -3,6 +3,7 @@
 使用矩阵运算生成
 x = 2 : 6;
 y = (3 : 8)"
+
 X = ones(size(y))*x;
 Y = y*ones(size(x));
 
