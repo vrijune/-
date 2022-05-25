@@ -1,4 +1,4 @@
-# -MATLAB SKILLS 3
+# MATLAB SKILLS 3
 
 （1）平面网格数据的生成
 使用矩阵运算生成
@@ -23,3 +23,4 @@ fmesh函数和fsurf函数
 >> x = 2 : 6;
 >> y = (3:8)';
 
+(3)对于
